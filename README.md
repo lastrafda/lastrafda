@@ -14,6 +14,7 @@ This is my plan for 2021:
 - [ ] Learn about Integration tests in react.
 - [ ] Learn about E2E tests in react.
 - [ ] Learn about CS
+- [ ] Learn about how to build a Product/Service
 - [ ] Learn about Golang.
 - [ ] Produce quality informative videos on youtube so I can learn better and improve my communication skills. 
 - [ ] Improve my english.

@@ -5,8 +5,8 @@ I'm currently interested in:
 
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
-updates
-###03/06/2021: 
+## updates
+### 03/06/2021: 
 I'm no longer interested in learning go. I finished reading "Yo Claudia" like 3 months ago so that's 1 out of 4, I'm currently reading "El arte de vivir bien".
 I moved to projects that used angular and node due to my company needs, I prefer react but atleast I've learned more about typescript. 
 Today I'll have my first english class on italki (I'll have a class every Thursday). Oh I've also learned about E2E tests using cypress/react.

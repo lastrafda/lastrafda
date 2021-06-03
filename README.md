@@ -3,7 +3,10 @@ I like to read, play videogames with my friends, go out and code.
 
 I'm currently interested in: 
 
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+- react
+- typescript
+- fp
+- all things data
 
 ## updates
 ### 03/06/2021: 
@@ -14,7 +17,7 @@ Today I'll have my first english class on italki (I'll have a class every Thursd
 
 I'm currently a fullstack dev working with node, react and all things aws.I don't know if I wanna be a fullstack for the rest of my life I might end focusing on one thing who knows.
 
-This is my plan for 2021: 
+## This is my plan for 2021: 
 
 - [ ] Learn about typescript and be confident using it with react. (idk about node I'll see).
 - [ ] Learn about Redux and be confident using it.

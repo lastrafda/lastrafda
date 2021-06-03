@@ -14,6 +14,8 @@ I'm no longer interested in learning go. I finished reading "Yo Claudia" like 3 
 I moved to projects that used angular and node due to my company needs, I prefer react but atleast I've learned more about typescript. 
 Today I'll have my first english class on italki (I'll have a class every Thursday). Oh I've also learned about E2E tests using cypress/react.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 I'm currently a fullstack dev working with node, react and all things aws.I don't know if I wanna be a fullstack for the rest of my life I might end focusing on one thing who knows.
 

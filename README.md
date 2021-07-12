@@ -20,7 +20,7 @@ I'm no longer interested in all things data, I started a podcast and I'm reading
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-I'm currently a fullstack dev working with node, react and all things aws.I don't know if I wanna be a fullstack for the rest of my life I might end focusing on one thing who knows.
+I'm a fullstack dev working with node, react and all things aws.I don't know if I wanna be a fullstack for the rest of my life I might end focusing on one thing who knows.
 
 ## This is my plan for 2021: 
 
